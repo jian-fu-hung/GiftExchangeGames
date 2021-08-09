@@ -1,7 +1,7 @@
 import random
 
 # 參加人員
-relatedPersons = ["Ru","jerry","andy","yuji","wu"]
+relatedPersons = ["Ru","jerry","andy","yuji","wu","test"]
 
 #抽
 def PickOut():
